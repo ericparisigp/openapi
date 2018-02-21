@@ -1,5 +1,5 @@
 {
-    "name": "jane/open-api",
+    "name": "geopagos/open-api",
     "description": "Generate a PHP Client API (PSR7 compatible) given a OpenApi (Swagger) specification",
     "type": "library",
     "keywords": ["jane", "swagger", "openapi"],
@@ -36,7 +36,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^4.7",
-        "friendsofphp/php-cs-fixer": "v2.0.0-alpha",
+        "friendsofphp/php-cs-fixer": "v2.0.0",
         "sllh/php-cs-fixer-styleci-bridge": "^2.1"
     },
     "conflict": {
