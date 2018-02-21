@@ -39,9 +39,6 @@
         "friendsofphp/php-cs-fixer": "v2.0.0",
         "sllh/php-cs-fixer-styleci-bridge": "^2.1"
     },
-    "conflict": {
-        "friendsofphp/php-cs-fixer": "<2.0.0-alpha|>2.0.0-alpha"
-    },
     "suggest": {
         "friendsofphp/php-cs-fixer": "To have a nice formatting of the generated files"
     },
